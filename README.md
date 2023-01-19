@@ -64,7 +64,7 @@ After successful completion of this course:
 | Apr 20 | Geometric Processing | CPE 462-11 | HW 8 |
 
 | Apr 27 | Review / Project Presentation | | Project Presentation |
-
+| --- | --- | --- | --- |
 
 ## COURSE MATERIALS
 
