@@ -62,7 +62,7 @@ After successful completion of this course:
 | Apr 13 | Coding 2 | CPE 462-10 | HW 7 |
 | --- | --- | --- | --- |
 | Apr 20 | Geometric Processing | CPE 462-11 | HW 8 |
-| --- | --- | --- | --- |
+
 | Apr 27 | Review / Project Presentation | | Project Presentation |
 | --- | --- | --- | --- |
 
