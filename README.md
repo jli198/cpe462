@@ -3,15 +3,15 @@
 *Department of Electrical and Computer Engineering*
 Spring 2023
 
-Instructor: Hong Man &nbsp;
-[Course Website](https://sit.instructure.com/courses/64918) &nbsp;
-Meeting Times: Thursday 6:30 to 9:20 PM &nbsp;
-Classroom Location: McLean 104, Canvas and Zoom &nbsp;
-Contact Info: hman@stevens.edu, Canvas Inbox &nbsp;
-[Office Hours:] Thursday 2:00PM to 4:00PM, or by appointment &nbsp;
-Prerequisite(s): E 245 &nbsp;
-Corequisite(s): none &nbsp;
-Cross-listed with: EE 462 &nbsp;
+Instructor: Hong Man </br>
+[Course Website](https://sit.instructure.com/courses/64918) </br>
+Meeting Times: Thursday 6:30 to 9:20 PM </br>
+Classroom Location: McLean 104, Canvas and Zoom </br>
+Contact Info: hman@stevens.edu, Canvas Inbox </br>
+[Office Hours:] Thursday 2:00PM to 4:00PM, or by appointment </br>
+Prerequisite(s): E 245 </br>
+Corequisite(s): none </br>
+Cross-listed with: EE 462 </br>
 
 ## COURSE DESCRIPTION
 
@@ -53,32 +53,32 @@ After successful completion of this course:
 ## COURSE MATERIALS
 
   Textbook(s):
-    [Digital Image Processing](http://www.imageprocessingplace.com), 4th edition, by Rafael C. Gonzalez, Richard E. Woods, Pearson 2017; ISBN-10: 9780133356724; ISBN-13: 978-0133356724. &nbsp;
-  Other Readings: &nbsp;
-    "DSP First, a Multimedia Approach", 2<sup>nd</sup> edition, J.H. McClellan, R.W> Schafer and M.A. Yoder, Pearson 2015, ISBN-10: 0136019250 &nbsp;
-  Materials: &nbsp;
+    [Digital Image Processing](http://www.imageprocessingplace.com), 4th edition, by Rafael C. Gonzalez, Richard E. Woods, Pearson 2017; ISBN-10: 9780133356724; ISBN-13: 978-0133356724. </br>
+  Other Readings: </br>
+    "DSP First, a Multimedia Approach", 2<sup>nd</sup> edition, J.H. McClellan, R.W> Schafer and M.A. Yoder, Pearson 2015, ISBN-10: 0136019250 </br>
+  Materials: </br>
     Comprehensive lecture notes will be provided on Canvas
 
 ## COURSE REQUIREMENTS
 
-**Attendance** &nbsp;
-Attendance is required and will be recorded. Excused absences (religious or medical, noted in via email to professor prior to absence occuring) accompanied by proper documentation can be granted. &nbsp;
-**Homework** &nbsp;
-Homework will be assigned periodically. All problem sets are expected to be completed according to the instructions, and they are usually due in one week after the assignment. Discussion of homework problems among students is permitted, but each student must finish his/her homework independently. Homework submissions are expected to be in a neat and complete form, showing all major steps towards the solutions. &nbsp;
-**Project** &nbsp;
-The term project is to provide you an opportunity to investigate a specific topic in the area of image processing and coding. The projects are to be conducted in groups, each with ~2-3 students. A list of suggested project topics will be provided around the third week. Each group will select its topic, and some creativity and imagination are encouraged. Each team project will be concluded with a 5-page report which describes the nature of your work, and a 10-15 min. computer demo to show your results. &nbsp;
-**Exams** &nbsp;
+**Attendance** </br>
+Attendance is required and will be recorded. Excused absences (religious or medical, noted in via email to professor prior to absence occuring) accompanied by proper documentation can be granted. </br>
+**Homework** </br>
+Homework will be assigned periodically. All problem sets are expected to be completed according to the instructions, and they are usually due in one week after the assignment. Discussion of homework problems among students is permitted, but each student must finish his/her homework independently. Homework submissions are expected to be in a neat and complete form, showing all major steps towards the solutions. </br>
+**Project** </br>
+The term project is to provide you an opportunity to investigate a specific topic in the area of image processing and coding. The projects are to be conducted in groups, each with ~2-3 students. A list of suggested project topics will be provided around the third week. Each group will select its topic, and some creativity and imagination are encouraged. Each team project will be concluded with a 5-page report which describes the nature of your work, and a 10-15 min. computer demo to show your results. </br>
+**Exams** </br>
 There will be a midterm exam and a final exam. They are both open-book/open-notes exams. No communication is allowed among students in this class during the exams.
 
 ## GRADING PROCEDURES
 
-Grades will be based on: &nbsp;
-Homework          (20%) &nbsp;
-Term Project      (20%) &nbsp;
-Exam I (midterm)  (30%) &nbsp;
-Exam II (final)   (30%) &nbsp;
+Grades will be based on: </br>
+Homework          (20%) </br>
+Term Project      (20%) </br>
+Exam I (midterm)  (30%) </br>
+Exam II (final)   (30%) </br>
 
-Late Policy: &nbsp;
+Late Policy: </br>
 To encourage you to stay on schedule, due dates have been established for each assignment; 20% of total points will be deducted for assignments received 1-6 days late; assignments more than 1 week late will receive 0 points. Extensions and exceptions can be graded for appropiate reasons.
 
 ## EXAM ROOM CONDITIONS
@@ -108,17 +108,17 @@ The followng procedures apply to exams for this course. As the instructor, I res
 
 ### LEARNING ACCOMODATIONS
 
-Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities. The Office of Disability Services (ODS) works with undergraduate and graduate students with learning disabilities, attention deficit-hyperactivity disorders, physical disabilities, sensory impairments, psychiatric disorders, and other such disabilities in order to help students achieve their academic and personal potential. They facilitate equal access to the educational programs and opportunities offered at Stevens and coordinate reasonable accommodations for eligible students. These services are designed to encourage independence and self-advocacy with support from the ODS staff. The ODS staff will facilitate the provision of accommodations on a case-by-case basis. &nbsp;
-*Disability Services Confidentiality Policy* &nbsp;
-Student Disability Files are kept separate from academic files and are stored in a secure location within the Office of Disability Services. The Family Educational Rights Privacy Act (FERPA, 20 U.S.C. 1232g; 34CFR, Part 99) regulates disclosure of disability documentation and records maintained by Stevens Disability Services. According to this act, prior written consent by the student is required before our Disability Services office may release disability documentation or records to anyone. An exception is made in unusual circumstances, such as the case of health and safety emergencies. &nbsp;
-For more information about Disability Services and the process to receive accommodations, visit [this site](https://www.stevens.edu/office-disability-services). If you have any questions pleasecontact: Phillip Gehman, the Director of Disability Services Coordinator at Stevens Institute ofTechnology at pgehman@stevens.edu or by phone (201) 216-3748. &nbsp;
+Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities. The Office of Disability Services (ODS) works with undergraduate and graduate students with learning disabilities, attention deficit-hyperactivity disorders, physical disabilities, sensory impairments, psychiatric disorders, and other such disabilities in order to help students achieve their academic and personal potential. They facilitate equal access to the educational programs and opportunities offered at Stevens and coordinate reasonable accommodations for eligible students. These services are designed to encourage independence and self-advocacy with support from the ODS staff. The ODS staff will facilitate the provision of accommodations on a case-by-case basis. </br>
+*Disability Services Confidentiality Policy* </br>
+Student Disability Files are kept separate from academic files and are stored in a secure location within the Office of Disability Services. The Family Educational Rights Privacy Act (FERPA, 20 U.S.C. 1232g; 34CFR, Part 99) regulates disclosure of disability documentation and records maintained by Stevens Disability Services. According to this act, prior written consent by the student is required before our Disability Services office may release disability documentation or records to anyone. An exception is made in unusual circumstances, such as the case of health and safety emergencies. </br>
+For more information about Disability Services and the process to receive accommodations, visit [this site](https://www.stevens.edu/office-disability-services). If you have any questions pleasecontact: Phillip Gehman, the Director of Disability Services Coordinator at Stevens Institute ofTechnology at pgehman@stevens.edu or by phone (201) 216-3748. </br>
 
 ### INCLUSIVITY
 
 *Name and Pronoun Usage*
-As this course includes group work and in-class discussion, it is vitally important for us to create an educational environment of inclusion and mutual respect. This includes the ability for all students to have their chosen gender pronoun(s) and chosen name affirmed. If the class roster does not align with your name and/or pronouns, please inform the instructor of the necessary changes. &nbsp;
-*Inclusion Statement* &nbsp;
-Stevens Institute of Technology believes that diversity and inclusiveness are essential to excellence in academic discourse and innovation. In this class, the perspective of people of all races, ethnicities, gender expressions and gender identities, religions, sexual orientations, disabilities, socioeconomic backgrounds, and nationalities will be respected and viewed as a resource and benefit throughout the semester. Suggestions to further diversify class materials and assignments are encouraged. If any course meetings conflict with your religious events, please do not hesitate to reach out to your instructor to make alternative arrangements. &nbsp;
+As this course includes group work and in-class discussion, it is vitally important for us to create an educational environment of inclusion and mutual respect. This includes the ability for all students to have their chosen gender pronoun(s) and chosen name affirmed. If the class roster does not align with your name and/or pronouns, please inform the instructor of the necessary changes. </br>
+*Inclusion Statement* </br>
+Stevens Institute of Technology believes that diversity and inclusiveness are essential to excellence in academic discourse and innovation. In this class, the perspective of people of all races, ethnicities, gender expressions and gender identities, religions, sexual orientations, disabilities, socioeconomic backgrounds, and nationalities will be respected and viewed as a resource and benefit throughout the semester. Suggestions to further diversify class materials and assignments are encouraged. If any course meetings conflict with your religious events, please do not hesitate to reach out to your instructor to make alternative arrangements. </br>
 
 You are expected to treat your instructor and all other participants in the course with courtesy and respect. Disrespectful conduct and harassing statements will not be tolerated and may result in disciplinary actions.
 
