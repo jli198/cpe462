@@ -50,7 +50,6 @@ After successful completion of this course:
 | Apr 13 | Coding 2 | CPE 462-10 | HW 7 |
 | Apr 20 | Geometric Processing | CPE 462-11 | HW 8 |
 | Apr 27 | Review / Project Presentation | | Project Presentation |
-| --- | --- | --- | --- |
 
 ## COURSE MATERIALS
 
@@ -90,6 +89,7 @@ The followng procedures apply to exams for this course. As the instructor, I res
 1. Students may use the following devices during exams. Any electronics devices that are not mentioned in the list below are <u>not</u> permitted.
 
 | **Device** | *Permitted?** Yes|
+| --- | --- |
 | Laptops | X |
 | Cell Phones | |
 | Tablets | X |
@@ -97,9 +97,10 @@ The followng procedures apply to exams for this course. As the instructor, I res
 | Google Glass | |
 | Other (specify) | |
 
-2. Students may use the following materials during exams. Any materials that are not mentioned in the list below are <u>not</u> permitted.
+1. Students may use the following materials during exams. Any materials that are not mentioned in the list below are <u>not</u> permitted.
 
 | **Material** | *Permitted?** Yes|
+| --- | --- |
 | Handwritten Notes *Conditions*: no restriction | X |
 | Typed Notes *Conditions*: no restriction | X |
 | Textbooks *Conditions*: no restriction | X |
