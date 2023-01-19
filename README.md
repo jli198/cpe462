@@ -3,15 +3,15 @@
 *Department of Electrical and Computer Engineering*
 Spring 2023
 
-Instructor: Hong Man </br>
+**Instructor**: Hong Man </br>
 [Course Website](https://sit.instructure.com/courses/64918) </br>
-Meeting Times: Thursday 6:30 to 9:20 PM </br>
-Classroom Location: McLean 104, Canvas and Zoom </br>
-Contact Info: hman@stevens.edu, Canvas Inbox </br>
-Office Hours: Thursday 2:00PM to 4:00PM, or by appointment </br>
-Prerequisite(s): E 245 </br>
-Corequisite(s): none </br>
-Cross-listed with: EE 462 </br>
+**Meeting Times:** Thursday 6:30 to 9:20 PM </br>
+**Classroom Location:** McLean 104, Canvas and Zoom </br>
+**Contact Info:** hman@stevens.edu, Canvas Inbox </br>
+**Office Hours:** Thursday 2:00PM to 4:00PM, or by appointment </br>
+**Prerequisite(s):** E 245 </br>
+**Corequisite(s):** none </br>
+**Cross-listed with:** EE 462 </br>
 
 ## COURSE DESCRIPTION
 
@@ -74,10 +74,10 @@ There will be a midterm exam and a final exam. They are both open-book/open-note
 ## GRADING PROCEDURES
 
 Grades will be based on: </br>
-Homework          (20%) </br>
-Term Project      (20%) </br>
-Exam I (midterm)  (30%) </br>
-Exam II (final)   (30%) </br>
+**Homework**          (20%) </br>
+**Term Project**      (20%) </br>
+**Exam I (midterm)**  (30%) </br>
+**Exam II (final)**   (30%) </br>
 
 Late Policy: </br>
 To encourage you to stay on schedule, due dates have been established for each assignment; 20% of total points will be deducted for assignments received 1-6 days late; assignments more than 1 week late will receive 0 points. Extensions and exceptions can be graded for appropiate reasons.
@@ -88,7 +88,7 @@ The followng procedures apply to exams for this course. As the instructor, I res
 
 1. Students may use the following devices during exams. Any electronics devices that are not mentioned in the list below are <u>not</u> permitted.
 
-| **Device** | *Permitted?** Yes|
+| **Device** | Permitted? Yes|
 | --- | --- |
 | Laptops | X |
 | Cell Phones | |
@@ -97,9 +97,9 @@ The followng procedures apply to exams for this course. As the instructor, I res
 | Google Glass | |
 | Other (specify) | |
 
-1. Students may use the following materials during exams. Any materials that are not mentioned in the list below are <u>not</u> permitted.
+2. Students may use the following materials during exams. Any materials that are not mentioned in the list below are <u>not</u> permitted.
 
-| **Material** | *Permitted?** Yes|
+| **Material** | Permitted? Yes|
 | --- | --- |
 | Handwritten Notes *Conditions*: no restriction | X |
 | Typed Notes *Conditions*: no restriction | X |
