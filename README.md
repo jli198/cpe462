@@ -3,7 +3,7 @@
 *Department of Electrical and Computer Engineering*
 Spring 2023
 
-[t](stevenslogo.png)
+<img src="stevenslogo.png">
 
 **Instructor**: Hong Man </br>
 [Course Website](https://sit.instructure.com/courses/64918) </br>
