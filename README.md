@@ -34,37 +34,37 @@ After successful completion of this course:
 ## TENTATIVE COURSE SCHEDULE
 
 | Class Date | Topic(s) | Readings | Assignment (<span style="background-color: #FFFF00">assigning dates</span>)
-| --- | --- | --- | --- |
+
 | Jan 19 | Introduction | IP intro, CPE 462-1 | |
-| --- | --- | --- | --- |
+
 | Jan 26 | Signals and Systems 1 | CPE 462-2 | HW 1 |
-| --- | --- | --- | --- |
+
 | Feb 2 | Signals and Systems 2 | CPE 462-2 | |
-| --- | --- | --- | --- |
+
 | Feb 9 | Fourier Transform | CPE 462-3 | HW 2 |
-| --- | --- | --- | --- |
+
 | Feb 16 | 2-D Signals and Systems | CPE 462-4 | HW 3 |
-| --- | --- | --- | --- |
+
 | Feb 23 | Image Perception | CPE 462-5 | HW 4 |
-| --- | --- | --- | --- |
+
 | Mar 2 | Image Enhancement I | CPE 462-6 | |
-| --- | --- | --- | --- |
+
 | Mar 9 | Midterm Exam | | |
-| --- | --- | --- | --- |
+
 | Mar 16 | SPRING BREAK |  | NO CLASS |
-| --- | --- | --- | --- |
+
 | Mar 23 | Image Enhancement 2 | CPE 462-7 | HW 5 |
-| --- | --- | --- | --- |
+
 | Mar 30 | Image Analysis | CPE 462-8 | HW 6 |
-| --- | --- | --- | --- |
+
 | Apr 6 | Information Theory and Coding 1 | CPE 462-9 | |
-| --- | --- | --- | --- |
+
 | Apr 13 | Coding 2 | CPE 462-10 | HW 7 |
-| --- | --- | --- | --- |
+
 | Apr 20 | Geometric Processing | CPE 462-11 | HW 8 |
-| --- | --- | --- | --- |
+
 | Apr 27 | Review / Project Presentation | | Project Presentation |
-| --- | --- | --- | --- |
+
 
 ## COURSE MATERIALS
 
