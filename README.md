@@ -8,7 +8,7 @@ Instructor: Hong Man </br>
 Meeting Times: Thursday 6:30 to 9:20 PM </br>
 Classroom Location: McLean 104, Canvas and Zoom </br>
 Contact Info: hman@stevens.edu, Canvas Inbox </br>
-[Office Hours:] Thursday 2:00PM to 4:00PM, or by appointment </br>
+Office Hours: Thursday 2:00PM to 4:00PM, or by appointment </br>
 Prerequisite(s): E 245 </br>
 Corequisite(s): none </br>
 Cross-listed with: EE 462 </br>
@@ -33,7 +33,7 @@ After successful completion of this course:
 
 ## TENTATIVE COURSE SCHEDULE
 
-| Class Date | Topic(s) | Readings | Assignment (<span style="background-color: #FFFF00">assigning dates</span>)
+| Class Date | Topic(s) | Readings | Assignment (assigning dates)
 | Jan 19 | Introduction | IP intro, CPE 462-1 | |
 | Jan 26 | Signals and Systems 1 | CPE 462-2 | HW 1 |
 | Feb 2 | Signals and Systems 2 | CPE 462-2 | |
