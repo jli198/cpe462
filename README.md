@@ -34,7 +34,7 @@ After successful completion of this course:
 ## TENTATIVE COURSE SCHEDULE
 
 | Class Date | Topic(s) | Readings | Assignment (<span style="background-color: #FFFF00">assigning dates</span>)
-
+| --- | --- | --- | --- |
 | Jan 19 | Introduction | IP intro, CPE 462-1 | |
 
 | Jan 26 | Signals and Systems 1 | CPE 462-2 | HW 1 |
