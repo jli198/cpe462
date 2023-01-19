@@ -1,7 +1,7 @@
 # CPE 462 Introduction to Image Processing and Coding
 
-*Department of Electrical and Computer Engineering*
-Spring 2023
+*Department of Electrical and Computer Engineering* </br>
+Spring 2023 </br>
 
 <img src="stevenslogo.png">
 
