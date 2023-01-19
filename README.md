@@ -3,6 +3,8 @@
 *Department of Electrical and Computer Engineering*
 Spring 2023
 
+[](stevenslogo.png)
+
 **Instructor**: Hong Man </br>
 [Course Website](https://sit.instructure.com/courses/64918) </br>
 **Meeting Times:** Thursday 6:30 to 9:20 PM </br>
@@ -97,7 +99,7 @@ The followng procedures apply to exams for this course. As the instructor, I res
 | Google Glass | |
 | Other (specify) | |
 
-2. Students may use the following materials during exams. Any materials that are not mentioned in the list below are <u>not</u> permitted.
+2.. Students may use the following materials during exams. Any materials that are not mentioned in the list below are <u>not</u> permitted.
 
 | **Material** | Permitted? Yes|
 | --- | --- |
