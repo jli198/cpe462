@@ -5,7 +5,7 @@ Spring 2023 </br>
 
 [<img src="StevensLogo.webp" alt="Stevens Institute of Technology - The Innovation University®">](http://stevens.edu/)
 
-**Instructor**: Hong Man </br>
+**Instructor:** Hong Man </br>
 [Course Website](https://sit.instructure.com/courses/64918) </br>
 **Meeting Times:** Thursday 6:30 to 9:20 PM </br>
 **Classroom Location:** McLean 104, Canvas and Zoom </br>
@@ -35,7 +35,7 @@ After successful completion of this course:
 
 ## TENTATIVE COURSE SCHEDULE
 
-| Class Date | Topic(s) | Readings | Assignment (<span style="background-color: #FFFF00">assigning dates</span>)
+| Class Date | Topic(s) | Readings | Assignment assigning dates)
 | --- | --- | --- | --- |
 | Jan 19 | Introduction | IP intro, CPE 462-1 | |
 | Jan 26 | Signals and Systems 1 | CPE 462-2 | HW 1 |
@@ -58,7 +58,7 @@ After successful completion of this course:
   Textbook(s):
     [Digital Image Processing](http://www.imageprocessingplace.com), 4th edition, by Rafael C. Gonzalez, Richard E. Woods, Pearson 2017; ISBN-10: 9780133356724; ISBN-13: 978-0133356724. </br>
   Other Readings: </br>
-    "DSP First, a Multimedia Approach", 2<sup>nd</sup> edition, J.H. McClellan, R.W> Schafer and M.A. Yoder, Pearson 2015, ISBN-10: 0136019250 </br>
+    "DSP First, a Multimedia Approach", 2<sup>nd</sup> edition, J.H. McClellan, R.W Schafer and M.A. Yoder, Pearson 2015, ISBN-10: 0136019250 </br>
   Materials: </br>
     Comprehensive lecture notes will be provided on Canvas
 
