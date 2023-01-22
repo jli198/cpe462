@@ -3,7 +3,7 @@
 *Department of Electrical and Computer Engineering* </br>
 Spring 2023 </br>
 
-[<img src="StevensLogo.webp" alt="Stevens Institute of Technology - The Innovation University®">](http://stevens.edu/)
+![Stevens Transparent Logo](stevenslogo.png)
 
 **Instructor:** Hong Man </br>
 [Course Website](https://sit.instructure.com/courses/64918) </br>
