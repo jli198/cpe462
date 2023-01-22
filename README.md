@@ -1,9 +1,9 @@
 # CPE 462 Introduction to Image Processing and Coding
 
+![Stevens Transparent Logo](stevenslogo.png)
+
 *Department of Electrical and Computer Engineering* </br>
 Spring 2023 </br>
-
-![Stevens Transparent Logo](stevenslogo.png)
 
 **Instructor:** Hong Man </br>
 [Course Website](https://sit.instructure.com/courses/64918) </br>
