@@ -1,0 +1,10 @@
+^C:\USERS\DRFAN\SOURCE\REPOS\CPE462\CVTEST\BUILD\CMAKEFILES\71CF2B64A06B1AA302C2942CEBE31639\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/drfan/source/repos/cpe462/cvtest -BC:/Users/drfan/source/repos/cpe462/cvtest/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/drfan/source/repos/cpe462/cvtest/build/simple_example.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
