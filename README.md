@@ -88,7 +88,7 @@ To encourage you to stay on schedule, due dates have been established for each a
 
 The followng procedures apply to exams for this course. As the instructor, I reserve the right to modify any conditions set forth below by printing revised Exam Room Conditions on the quiz or exam.
 
-1. Students may use the following devices during exams. Any electronics devices that are not mentioned in the list below are <u>not</u> permitted.
+1. Students may use the following devices during exams. Any electronics devices that are not mentioned in the list below are *not* permitted.
 
 | **Device** | Permitted? Yes|
 | --- | --- |
@@ -99,7 +99,7 @@ The followng procedures apply to exams for this course. As the instructor, I res
 | Google Glass | |
 | Other (specify) | |
 
-2.. Students may use the following materials during exams. Any materials that are not mentioned in the list below are <u>not</u> permitted.
+2.. Students may use the following materials during exams. Any materials that are not mentioned in the list below are *not* permitted.
 
 | **Material** | Permitted? Yes|
 | --- | --- |
@@ -109,7 +109,7 @@ The followng procedures apply to exams for this course. As the instructor, I res
 | Readings *Conditions*: no restriction | X |
 | Other (specify) | |
 
-3. Students <u>are not</u> allowed to work with or talk to other students during exams.
+3. Students *are not* allowed to work with or talk to other students during exams.
 
 ### LEARNING ACCOMODATIONS
 
