@@ -35,7 +35,7 @@ After successful completion of this course:
 
 ## TENTATIVE COURSE SCHEDULE
 
-| Class Date | Topic(s) | Readings | Assignment assigning dates)
+| Class Date | Topic(s) | Readings | Assignment (assigning dates)
 | --- | --- | --- | --- |
 | Jan 19 | Introduction | IP intro, CPE 462-1 | |
 | Jan 26 | Signals and Systems 1 | CPE 462-2 | HW 1 |
@@ -99,7 +99,7 @@ The followng procedures apply to exams for this course. As the instructor, I res
 | Google Glass | |
 | Other (specify) | |
 
-2.. Students may use the following materials during exams. Any materials that are not mentioned in the list below are *not* permitted.
+2. Students may use the following materials during exams. Any materials that are not mentioned in the list below are *not* permitted.
 
 | **Material** | Permitted? Yes|
 | --- | --- |
