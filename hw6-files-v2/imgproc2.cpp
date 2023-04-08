@@ -1,15 +1,20 @@
 /*
 imageproc.c
-Usage: imagproc in_file_name out_file_name width height
+Usage: imageproc in_file_name out_file_name width height
 */
 
+#include <iostream>
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
 #include <math.h>
+#include <opencv2/opencv.hpp>
+//#include <opencv2/core/core.hpp>
+//#Include <opencv2/highgui/highgui.hpp>
+#include <opencv2/imgproc.hpp>
 
-#include "CImg.h"
-using namespace cimg_library;
+using namespace cv;
+using namespace std;
 
 int main(int argc, char *argv[])
 {
@@ -17,9 +22,11 @@ int main(int argc, char *argv[])
   int j, k, width, height;
   int ** image_in, ** image_out;
   float sum1, sum2;
+  float new_T, old_T, delta_T;
   long count1, count2;
+  errno_t err;
 
-  if(argc<5) { printf("ERROR: Insufficient parameters!\n"); return(1);} 
+  if(argc<5) { printf("ERROR: Insufficient parameter!\n"); return(1);}
 
   width = atoi(argv[3]);
   height = atoi(argv[4]);
@@ -38,7 +45,7 @@ int main(int argc, char *argv[])
     return(1);
   }
 
-  for (j=0; j < height; j++)
+  for (j=0; j<height; j++)
   {
     image_in[j] = (int *) calloc(width, sizeof(int));
     if(!image_in[j])
@@ -46,7 +53,8 @@ int main(int argc, char *argv[])
       printf("Error: Can't allocate memory!\n");
       return(1);
     }
-    image_out[j] = (int *) calloc(width,sizeof(int));
+
+    image_out[j] = (int *) calloc(width, sizeof(int));
     if(!image_out[j])
     {
       printf("Error: Can't allocate memory!\n");
@@ -54,12 +62,13 @@ int main(int argc, char *argv[])
     }
   }
 
-  if((in=fopen(argv[1], "rb"))==NULL)
+  if((err=fopen_s(&in, argv[1], "rb")) !=0)
   {
     printf("ERROR: Can't open in_file!\n");
     return(1);
   }
-  if((out=fopen(argv[2], "web"))==NULL)
+
+  if((err=fopen_s(&out, argv[2], "wb")) !=0)
   {
     printf("ERROR: Can't open out_file!\n");
     return(1);
@@ -68,81 +77,85 @@ int main(int argc, char *argv[])
   for (j=0; j < height; j++)
     for (k=0; k<width; k++)
     {
-      if((image_in[j][k] =getc(in)) == EOF) {
-        printf("ERROR: Can't read file from in_file!\n");
+      if((image_in[j][k]=getc(in))==EOF)
+      {
+        printf("ERROR: Can't read from in_file!\n");
         return(1);
       }
     }
+  
   if(fclose(in)==EOF)
   {
     printf("ERROR: Can't close in_file!\n");
     return(1);
   }
-
-  /* display image_in */
-  CIMG<int> image_disp(width, height, 1, 1, 0);
-  /* CIMG<type> image_name(width, height, temproral_frame_number, color_plane_number, initial)*/
-
-  for (j=0; j<height; j++)
-    for(k=0; k<width; k++)
-    {
-      image_disp(k, j, 0, 0) = image_in[j][k];
-    }
-  CImgDisplay disp_in(image_disp, "Image_In", 0);
-  /*CImgDisplay display_name(image_displayed, "window title", normalization_factor) */
-
-  /*
-  Image Processing begins
-  */
   
+  /*
+  Image processing begins
+  */
   for (j=0; j<height; j++)
     for (k=0; k<width; k++)
     {
       image_out[j][k]=255-image_in[j][k];
     }
-
+  
   /*
-  Image Processing ends
+  Image processing ends
+  */
+  
+  /*
+  Some OpenCV here
   */
 
-  /* display image_out */
-  for (j=0; j<height; j++)
-    for (k=0; k<width; k++)
-    {
-      image_disp(k,j,0,0) = image_out[j][k];
-    }
-  CImgDisplay disp_out(image_disp,"Image_Out", 0);
+  Mat_<uchar> M_out(height, width);
+  for (int ii = 0; ii < height; ii++)
+    for (int jj = 0; jj < width; jj++)
+      M_out(ii, jj) = image_out[ii][jj];
+  
+  String windowName2 = "Output Image"; //Name of window
 
-  /* save image_out into out_file */
-  for (j=0; j<height; j++)
-    for (k=0; k<width; k++)
+  namedWindow(windowName2); // Create window
+
+  imshow(windowName2, M_out); // Show image inside created window
+
+  waitKey(0); // Wait for any keystroke in window
+
+  destroyWindow(windowName2); //destroy created window
+
+  bool isSuccess = imwrite("MyOutImage.jpg", M_out);  //write image to file as JPEG
+  //bool isSuccess = imwrite("MyOutImage.png", M_out);  //write image to file as PNG
+  if (isSuccess == false)
+  {
+    cout << "Failed to save image" << endl;
+    //cin.get();  //wait for key press
+    return -1;
+  }
+
+  /* save image_out into out_file in raw format */
+  for (j=0; j < height; j++)
+    for (k=0; k < width; k++)
     {
-      if((putc(image_out[j][k], out))==EOF)
+      if((putc(image_out[j][k],out))==EOF)
       {
-        printf("ERROR: Can't write to out_file!\n");
+        printf("ERROR: Can't write to outfile!\n");
         return(1);
       }
     }
 
   if(fclose(out)==EOF)
-  {
-    printf("ERROR: Can't close out_file!\n");
-    return(1);
-  }
+	{
+		printf("ERROR: Can't close out_file!\n");
+		return(1);
+	}
 
-  /* closing */
-  while (!disp_in.is_closed)
-    disp_in.wait();
-  while (!disp_out.is_closed)
-    disp_out.wait();
 
-  for (j=0; j<height; j++)
-  {
-    free(image_in[j]);
-    free(image_out[j]);
-  }
-  free(image_in);
-  free(image_out);
+	for (j=0; j<height; j++)
+	{
+		free(image_in[j]);
+		free(image_out[j]);
+	}
+	free(image_in);
+	free(image_out);
 
   return 0;
 }

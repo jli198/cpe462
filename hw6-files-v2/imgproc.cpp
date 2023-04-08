@@ -1,5 +1,5 @@
 // imgproc.cpp : This file contains the 'main' function. Program execution begins and ends there.
-// Usage: imaproc in_file_name.jpg out_file_name.jpg
+// Usage: imgproc in_file_name.jpg out_file_name.jpg
 //
 
 #include <iostream>

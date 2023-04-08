@@ -72,14 +72,14 @@ int main(int argc, char *argv[])
 
 	for (j=0; j<height; j++)
 		for (k=0; k<width; k++)
-	    	{
+	  {
 			if((image_in[j][k]=getc(in))==EOF)
 			{
 				printf("ERROR: Can't read from in_file!\n");
 				return(1);
-		      }
-	    	}
-      if(fclose(in)==EOF)
+		  }
+	  }
+  if(fclose(in)==EOF)
 	{
 		printf("ERROR: Can't close in_file!\n");
 		return(1);
@@ -93,7 +93,7 @@ int main(int argc, char *argv[])
 
 	for (j=0; j<height; j++)
 		for (k=0; k<width; k++)
-	    	{
+	  {
 			image_out[j][k]=255-image_in[j][k];
 		}
 
@@ -109,15 +109,15 @@ int main(int argc, char *argv[])
 	/* save image_out into out_file in RAW format */
 	for (j=0; j<height; j++)
 		for (k=0; k<width; k++)
+	  {
+	    if((putc(image_out[j][k],out))==EOF)
 	    {
-	            if((putc(image_out[j][k],out))==EOF)
-	            {
-		        	printf("ERROR: Can't write to out_file!\n");
-				    return(1);
-	            }
+		    printf("ERROR: Can't write to out_file!\n");
+				return(1);
+	    }
 		}
 
-    if(fclose(out)==EOF)
+  if(fclose(out)==EOF)
 	{
 		printf("ERROR: Can't close out_file!\n");
 		return(1);
@@ -132,7 +132,7 @@ int main(int argc, char *argv[])
 	free(image_in);
 	free(image_out);
 
-    return 0;
+  return 0;
 }
 
 
